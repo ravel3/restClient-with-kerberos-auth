@@ -1,0 +1,4 @@
+app:
+    user-principal: aflis@EXAMPLE.COM
+    keytab-location: /home/ravel/aflis.keytab
+    access-url: http://localhost/greeting
